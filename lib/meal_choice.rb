@@ -1,7 +1,7 @@
 # Your code here
 
 
-def meal_choice(veg1, veg2, prot)
+def meal_choice(veg1, veg2, protein)
   puts "What a nutritious meal!"
   puts "A plate of #{protien} with #{veg1} and #{veg2}."
 end 
